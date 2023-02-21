@@ -1,3 +1,5 @@
 Hola, este es mi primer archio en Git
 
 agregando la segunda lina pero regresando con el checkout.
+
+Vamos a fucionar las el documento con la rama nueva.
