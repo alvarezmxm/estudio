@@ -2,4 +2,9 @@ Hola, este es mi primer archio en Git
 
 agregando la segunda lina pero regresando con el checkout.
 
+<<<<<<< HEAD
 Vamos a fucionar las el documento con la rama nueva.
+=======
+Estamos agregando una nueva liena para una rama de muestra y luego fucionarla con la rama MASTER.
+esta linea se va a sumar en la rama Master.
+>>>>>>> nueva_rama
